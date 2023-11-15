@@ -1,6 +1,8 @@
 ### This is a LOCAL change :)
 <h1>Recipe</h1>
 <h3>tomato chicken soup noodle</h3>
+<img src="recipe.jpeg" width=30% >
+
 Made with 
 <ul>
 <li>tomatoes</li>

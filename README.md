@@ -8,12 +8,8 @@ Made with
 <li>chicken soup</li>
 <li>noodles</li>
 </ul>
-Feel free to add some greens you like.\
-Created by Yu.
+<p>Feel free to add some greens you like.</p>
+<em>Created by Yu</em>
 
 Last line changed locally
 ### This is a REMOTE change :O
-
-```python
-
-```
